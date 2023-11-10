@@ -6,6 +6,8 @@ public class Main {
         
         myChild.eat();
         myChild.sleep();
+        myChild.gikapoy();
+        myChild.naghulat();
         
     }
 }
